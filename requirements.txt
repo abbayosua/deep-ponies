@@ -7,3 +7,6 @@ nemo_toolkit==1.5.1
 pynini==2.1.4
 gdown==4.2.0
 tqdm
+transformers
+nemo_text_processing
+g2p_en
